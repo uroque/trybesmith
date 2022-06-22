@@ -1,4 +1,3 @@
-import { Resolver } from 'dns';
 import { Request, Response, NextFunction } from 'express';
 import { ErrorHandler } from '../interfaces';
 
