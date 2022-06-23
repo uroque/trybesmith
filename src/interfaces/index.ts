@@ -12,9 +12,9 @@ export interface IProduct extends INewProduct {
   orderId?: number;
 }
 
-// export interface Schema {
-//   id?: number;
-//   name?: string;
-//   amount?: string;
-//   orderId?: number;
-// }
+export interface INewUser {
+  username: string;
+  classe: string;
+  level: number;
+  password: string;
+}
