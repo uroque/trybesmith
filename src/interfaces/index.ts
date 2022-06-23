@@ -11,3 +11,10 @@ export interface IProduct extends INewProduct {
   id: number;
   orderId?: number;
 }
+
+// export interface Schema {
+//   id?: number;
+//   name?: string;
+//   amount?: string;
+//   orderId?: number;
+// }
