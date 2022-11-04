@@ -8,3 +8,14 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+In this project I developed a CRUD that represents a medieval D&D item store using TypeScript and MSC architecture.
+
+Technologies used in this project:
+
+- MSC Architecture
+- TypeScript
+- Node.js
+- Express.js
+- MySQL
+
